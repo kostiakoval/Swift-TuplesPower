@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Tuple-Other.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Tuple_Rule-2.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Rure-1.playground">
+   </FileRef>
+   <FileRef
+      location = "container:FunctionCallWithTuple.playground">
+   </FileRef>
+</Workspace>
